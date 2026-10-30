@@ -78,8 +78,8 @@ plt.show()
 ...
 
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Dharshan Sanjay.D
-RegisterNumber:  212225040070
+Developed by: Lokesh M
+RegisterNumber:  212224230142
 
 ```
 
